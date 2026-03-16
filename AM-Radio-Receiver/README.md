@@ -43,5 +43,3 @@ Troubleshooting: Resolved integration issues such as common-grounding errors bet
 
 Success: The final build successfully meets all design requirements, automatically reverting to forward motion after the timed interval.
 
-Academic Context
-This project was completed as part of the ECE 110 curriculum at the University of Illinois at Urbana-Champaign. Final performance was validated through transient response analysis and real-world demonstration.
