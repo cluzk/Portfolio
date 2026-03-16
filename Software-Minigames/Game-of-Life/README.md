@@ -1,4 +1,4 @@
-# Game of Life (Cellular Automata)
+# Game of Life
 **C | 2D-to-1D Array Mapping | State Machines | UIUC ECE 220**
 
 ## Project Overview
