@@ -41,4 +41,4 @@ The controller was designed as a 3-bit state machine (S2, S1, S0) to track vario
 * **Software:** Xilinx Vivado (Logic Simulation), GitHub (Version Control).
 
 ## Academic Context
-This project was a core component of the digital systems curriculum at the **University of Illinois at Urbana-Champaign**, focusing on the transition from boolean theory to physical hardware realization.
+This project was a core component of the ECE 120: Introduction to Computing curriculum at the **University of Illinois at Urbana-Champaign**, focusing on the transition from boolean theory to physical hardware realization.
