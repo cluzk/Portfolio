@@ -4,6 +4,7 @@
 ## Project Overview
 This project involved the design and implementation of an autonomous robotic car that defaults to forward motion and reverses for a precise duration of 5–10 seconds upon detecting a loud acoustic trigger. The system is built entirely from analog subcircuits, integrating sound sensing, signal amplification, timing logic, and motor control without the use of a microcontroller.
 
+
 ---
 
 ## System Architecture & Subcircuits
